@@ -1,0 +1,1 @@
+This is very very basic static server setup for https://github.com/arctindev/SpaceX-Missions-App project.
